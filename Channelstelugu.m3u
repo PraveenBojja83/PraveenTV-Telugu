@@ -1,0 +1,211 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1oJS44fbwcfCSt" tvg-language="tel" tvg-country="in" group-title="news",10 TV News
+https://cdn-1.pishow.tv/live/391/master.m3u8
+
+#EXTINF:-1 tvg-id="3dmYdzSb66KGJG" tvg-language="tel" tvg-country="in" group-title="news",6 TV News
+https://cdn-1.pishow.tv/live/232/master.m3u8
+
+#EXTINF:-1 tvg-id="mSWESfBw9QXmYL" tvg-language="tel" tvg-country="in" group-title="news",99TV News
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+
+#EXTINF:-1 tvg-id="gYX0r2cYivN95z" tvg-language="tel" tvg-country="in" group-title="divotional",Aastha Telugu
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gtjm8M5Tn99CHW" tvg-language="tel" tvg-country="in" group-title="news",ABN Andhra Jyoti
+https://cdn-1.pishow.tv/live/407/master.m3u8
+
+#EXTINF:-1 tvg-id="rizRVPcdlTpdTZ" tvg-language="tel" tvg-country="in" group-title="divotional",Bhakthi TV
+https://cdn-1.pishow.tv/live/397/master.m3u8
+
+#EXTINF:-1 tvg-id="y5l3cVKS6cfyzU" tvg-language="tel" tvg-country="in",BIG TV Telugu
+https://cdn-1.pishow.tv/live/1059/master.m3u8
+
+#EXTINF:-1 tvg-id="mwWv1ZwZOM0IDL" tvg-language="tel" tvg-country="in" group-title="news",BRK News
+https://cdn-1.pishow.tv/live/1037/master.m3u8
+
+#EXTINF:-1 tvg-id="f9tX01bn3EYQEs" tvg-language="tel" tvg-country="in" group-title="divotional",CVR OM Telugu Spiritual
+https://cdn-1.pishow.tv/live/957/master.m3u8
+
+#EXTINF:-1 tvg-id="djduNfwOatZONT" tvg-language="tel" tvg-country="in" group-title="health",CVR Health
+https://cdn-6.pishow.tv/live/395/master.m3u8
+
+#EXTINF:-1 tvg-id="Iyjdrx6y4jYwZq" tvg-language="tel" tvg-country="in",DD Saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+
+#EXTINF:-1 tvg-id="44h9Z4ZEgtGb2n" tvg-language="hin" tvg-country="in" group-title="sports",DD Sports SD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="maCBZ1ENJ0vxPE" tvg-language="tel" tvg-country="in",ETV Abhiruchi
+https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-id="er41DmeIs306dY" tvg-language="tel" tvg-country="in" group-title="news",ETV Andhra Pradesh
+https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="wyDPdeLY6Tg0Hc" tvg-language="tel" tvg-country="in" group-title="movies",ETV Cinema HD
+https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="J32LjxZ0RC7vQK" tvg-language="tel" tvg-country="in" group-title="entertainment",ETV Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NbTziIpdoPwgQB" tvg-language="tel" tvg-country="in" group-title="comedy",ETV JOSH
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="uSctDmIPr59SNQ" tvg-language="tel" tvg-country="in" group-title="health",ETV Life
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="mNsrgueOaZN9Tk" tvg-language="tel" tvg-country="in" group-title="music",ETV Music
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tdujCJzBs2qeRR" tvg-language="tel" tvg-country="in" group-title="comedy",ETV Plus HD
+https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="v5S3VQc3uYprHf" tvg-language="tel" tvg-country="in" group-title="news",ETV Telugu
+https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ICy3Xgo6y92b0g" tvg-language="tel" tvg-country="in" group-title="news",ETV Telangana
+https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="rPGG0rcVL2rrED" tvg-language="tel" tvg-country="in",Hindu Dharmam
+https://cdn-1.pishow.tv/live/959/master.m3u8
+
+#EXTINF:-1 tvg-id="4RTxKKk43jsS26" tvg-language="tel" tvg-country="in" group-title="news",HMTV
+https://cdn-1.pishow.tv/live/280/master.m3u8
+
+#EXTINF:-1 tvg-id="Y2MJk9QO9WTvNS" tvg-language="tel" tvg-country="in" group-title="news",INews
+https://cdn-1.pishow.tv/live/411/master.m3u8
+
+#EXTINF:-1 tvg-id="fgElRBRTnEGm4w" tvg-language="tel" tvg-country="in" group-title="entertainment",Mahaa Max
+https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
+
+#EXTINF:-1 tvg-id="6FYwTCqWHaEJao" tvg-language="tel" tvg-country="in" group-title="news",Mahaa News
+https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8
+
+#EXTINF:-1 tvg-id="4RxcyPtBPh6UEs" tvg-language="tel" tvg-country="in" group-title="news",Metro TV
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="fOYCBBn1ttMPXa" tvg-language="tel" tvg-country="in" group-title="movies",Mango Mobile TV
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lvwOqF9rPI5a1c" tvg-language="tel" tvg-country="in",NTV Telugu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8BOHx9OWNUjXnX" tvg-language="tel" tvg-country="in" group-title="news",Prime9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+
+#EXTINF:-1 tvg-id="63hGISr8CwvRME" tvg-language="tel" tvg-country="in" group-title="music",Raj Musix Telugu
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+
+#EXTINF:-1 tvg-id="OxwvdB2jdThXIm" tvg-language="tel" tvg-country="in" group-title="divotional",SVBC Telugu
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="St8LbZwuTXU1Yr" tvg-language="tel" tvg-country="in",Sakshi TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0V4ffffN69jNL9" tvg-language="tel" tvg-country="in" group-title="news",TV5 Telugu News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XyjzVdpn8syIXb" tvg-language="tel" tvg-country="in" group-title="news",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sdIsA0TX648yDw" tvg-language="tel" tvg-country="in" group-title="news",T News
+https://cdn-1.pishow.tv/live/385/master.m3u8
+
+#EXTINF:-1 tvg-id="HO6BsDybwFZDWT" tvg-language="tel" tvg-country="in" group-title="news",V6 News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A7LdOy3OF3CcNr" tvg-language="tel" tvg-country="in" group-title="news",Vanitha TV
+https://cdn-1.pishow.tv/live/393/master.m3u8
+
+#EXTINF:-1 tvg-id="c76PMA5xU1p64o" tvg-language="tel" tvg-country="in" group-title="news",Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+
+#EXTINF:-1 tvg-id="WKKUMu6TFlrDTi" tvg-name="Barbie and Friends" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png" group-title="Kids/eng/ind",Barbie and Friends
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
+
+#EXTINF:-1 tvg-id="7CIRMQUnuxC7MK" tvg-name="BBC Cbeebies" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids/hin/ind",BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+#EXTINF:-1 tvg-id="RoX5xBQ3r0IcEF" tvg-name="BBC Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="Kids/eng/ind",BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2snOCJfvsrfeUN" tvg-name="Baby Shark TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg" group-title="Kids/eng/ind",Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ULmI9rRZV9Z84b" tvg-name="Cartoon Network" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids/hin/ind",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+
+#EXTINF:-1 tvg-id="KKDpZ88WwdRAsn" tvg-name="Doraemon" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids/hin/ind",Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 tvg-id="wgW5xJxiuCgpB2" tvg-name="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20250122T004827SQUARE.png" group-title="Kids/hin/ind",Hooray Kids
+https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZL7ZzqdjQYpo9S" tvg-name="Hot Wheels Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20241028T174226SQUARE.png" group-title="Kids/eng/ind",Hot Wheels Action
+https://dtz4aepbew7ez.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j02089jh4uhwc/hotwh.m3u8
+
+#EXTINF:-1 tvg-id="jzUX4EGSi0Qw5Z" tvg-name="Hungama Kids" tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids/hin/ind",Hungama Kids
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 tvg-id="BLp6YyzURYFuAK" tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Kids/hin/ind",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-id="Ll99ztO6Sbai22" tvg-name="Kartoon Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png" group-title="Kids/eng/ind",Kartoon Channel
+https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8
+
+#EXTINF:-1 tvg-id="T3KKeEGC2Z98Co" tvg-name="Kids Pang TV" tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="Kids/eng/ind",Kids Pang TV
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="azzM6cMWIJnAae" tvg-name="Ketchup TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png" group-title="Kids/eng/ind",Ketchup TV
+https://d24p9tv2w5yorn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hv7b0gembp7xn/vod.m3u8
+
+#EXTINF:-1 tvg-id="jNqlyTN5h3gmhU" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png" group-title="Kids/eng/ind",KidDo MATIX
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JbHPtLWtt2xU3p" tvg-name="KIDS FLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="Kids/eng/in",KIDS FLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="3MBYgaKLMn6pZ5" tvg-name="Moto Patlu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids/hin/ind",Moto Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-id="0dR8dfzEcToK2o" tvg-name="Mr. Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids/eng/ind",Mr. Bean Animated
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3mTZ5xuHVGXP6f" tvg-name="PBS Kids" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids/hin/ind",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fOYCBBn1ttMPXa" tvg-name="Pocoyo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB700004ET_20250107T031205SQUARE.png" group-title="Kids/eng/ind",Pocoyo
+https://d1l8e2fpbn7elb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfmlamz0dpzk7/pocen.m3u8
+
+#EXTINF:-1 tvg-id="LwA5028hMgNMuT" tvg-name="POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png" group-title="Kids/eng/ind",POP
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nrgAerhxDTf9Sg" tvg-name="Powerkids Kartoon" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="Kids/eng/ind",Powerkids Kartoon
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
+
+#EXTINF:-1 tvg-id="Kqqs2mxY3fpjgn" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" group-title="Kids/eng/ind",SuperToons TV
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n3MPyyNxowDoVf" tvg-name="Tiny POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" group-title="Kids/eng/ind",Tiny POP
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OPVnWmOrq7UChn" tvg-name="Toon Goggles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="Kids/eng/ind",Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="4pYcVHobR81E70" tvg-name="TG Junior" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" group-title="Kids/eng/ind",TG Junior
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
+
+#EXTINF:-1 tvg-id="qXStwo3BIZONFL" tvg-name="The LEGO" tvg-logo="" group-title="Kids/eng/ind",The LEGO
+https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8
+
+#EXTINF:-1 tvg-id="tfp5EYtXsX1Kxg" tvg-name="TOON GOOGLE" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="Kids/eng/ind",TOON GOOGLE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+
+#EXTINF:-1 tvg-id="WDozmZBk0hABKQ" tvg-name="Tom & Jarry" tvg-logo="h" group-title="Kids/hin/ind",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="r3w6DvI7DJibMX" tvg-name="ZB Cartoon" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids/hin/ind",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="FdH2QbfMwvyn32" tvg-name="Zoo Moo" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids/hin/ind",Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
