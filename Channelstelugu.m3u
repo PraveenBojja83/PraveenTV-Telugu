@@ -18,7 +18,7 @@ https://cdn-1.pishow.tv/live/407/master.m3u8
 #EXTINF:-1 tvg-id="rizRVPcdlTpdTZ" tvg-language="tel" tvg-country="in" group-title="divotional",Bhakthi TV
 https://cdn-1.pishow.tv/live/397/master.m3u8
 
-#EXTINF:-1 tvg-id="y5l3cVKS6cfyzU" tvg-language="tel" tvg-country="in",BIG TV Telugu
+#EXTINF:-1 tvg-id="y5l3cVKS6cfyzU" tvg-language="tel" tvg-country="in",group-title="news",BIG TV Telugu
 https://cdn-1.pishow.tv/live/1059/master.m3u8
 
 #EXTINF:-1 tvg-id="mwWv1ZwZOM0IDL" tvg-language="tel" tvg-country="in" group-title="news",BRK News
@@ -30,13 +30,13 @@ https://cdn-1.pishow.tv/live/957/master.m3u8
 #EXTINF:-1 tvg-id="djduNfwOatZONT" tvg-language="tel" tvg-country="in" group-title="health",CVR Health
 https://cdn-6.pishow.tv/live/395/master.m3u8
 
-#EXTINF:-1 tvg-id="Iyjdrx6y4jYwZq" tvg-language="tel" tvg-country="in",DD Saptagiri
+#EXTINF:-1 tvg-id="Iyjdrx6y4jYwZq" tvg-language="tel" tvg-country="in",group-title="news",DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 
 #EXTINF:-1 tvg-id="44h9Z4ZEgtGb2n" tvg-language="hin" tvg-country="in" group-title="sports",DD Sports SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-id="maCBZ1ENJ0vxPE" tvg-language="tel" tvg-country="in",ETV Abhiruchi
+#EXTINF:-1 tvg-id="maCBZ1ENJ0vxPE" tvg-language="tel" tvg-country="in",group-title="cooking",ETV Abhiruchi
 https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
 
 #EXTINF:-1 tvg-id="er41DmeIs306dY" tvg-language="tel" tvg-country="in" group-title="news",ETV Andhra Pradesh
@@ -66,7 +66,7 @@ https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-id="ICy3Xgo6y92b0g" tvg-language="tel" tvg-country="in" group-title="news",ETV Telangana
 https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
 
-#EXTINF:-1 tvg-id="rPGG0rcVL2rrED" tvg-language="tel" tvg-country="in",Hindu Dharmam
+#EXTINF:-1 tvg-id="rPGG0rcVL2rrED" tvg-language="tel" tvg-country="in",group-title="divotional",Hindu Dharmam
 https://cdn-1.pishow.tv/live/959/master.m3u8
 
 #EXTINF:-1 tvg-id="4RTxKKk43jsS26" tvg-language="tel" tvg-country="in" group-title="news",HMTV
@@ -87,7 +87,7 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="fOYCBBn1ttMPXa" tvg-language="tel" tvg-country="in" group-title="movies",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lvwOqF9rPI5a1c" tvg-language="tel" tvg-country="in",NTV Telugu
+#EXTINF:-1 tvg-id="lvwOqF9rPI5a1c" tvg-language="tel" tvg-country="in",group-title="news",NTV Telugu
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8BOHx9OWNUjXnX" tvg-language="tel" tvg-country="in" group-title="news",Prime9 News
@@ -99,7 +99,7 @@ https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="OxwvdB2jdThXIm" tvg-language="tel" tvg-country="in" group-title="divotional",SVBC Telugu
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="St8LbZwuTXU1Yr" tvg-language="tel" tvg-country="in",Sakshi TV
+#EXTINF:-1 tvg-id="St8LbZwuTXU1Yr" tvg-language="tel" tvg-country="in",group-title="news",Sakshi TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0V4ffffN69jNL9" tvg-language="tel" tvg-country="in" group-title="news",TV5 Telugu News
@@ -162,7 +162,7 @@ https://d24p9tv2w5yorn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="jNqlyTN5h3gmhU" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png" group-title="Kids/eng/ind",KidDo MATIX
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JbHPtLWtt2xU3p" tvg-name="KIDS FLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="Kids/eng/in",KIDS FLIX
+#EXTINF:-1 tvg-id="JbHPtLWtt2xU3p" tvg-name="KIDS FLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="Kids/eng/ind",KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF:-1 tvg-id="3MBYgaKLMn6pZ5" tvg-name="Moto Patlu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids/hin/ind",Moto Patlu
